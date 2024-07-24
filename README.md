@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lbrnsx
+- 👋 Hi, I’m Liam! (@Lbrnsx)
 - 👀 I’m interested in front-end Web Development
 - 🌱 I’m currently learning Full Stack Web Development @ TAFE NSW
 - 💞️ I’m looking to collaborate on exciting web designs & innovative front-end pages
